@@ -3,4 +3,3 @@ script/shinycms_fastcgi.pl -d \
 	-n 3 \
 	-l /tmp/capitolareaseascouts.org.socket \
 	-p /tmp/capitolareaseascouts.org.pid
-
