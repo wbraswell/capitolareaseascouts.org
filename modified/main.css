@@ -38,6 +38,9 @@ time, mark, audio, video {
 	font-size:			100%;
 	vertical-align:		baseline;
 	background:			transparent;
+/* WBRASWELL 20140929 2014.272: automatic line-height necessary for 
+    CKEditor's font size function to avoid line overlap */
+    line-height: normal;
 }                  
 
 article, aside, figure, footer, header, hgroup, nav, section {
@@ -142,6 +145,7 @@ body, select, input, textarea {
 
 h1,h2,h3,h4,h5,h6 {
 	font-weight:		bold;
+    text-align:         center;
 /*
 	text-rendering:		optimizeLegibility;
 */
