@@ -5,7 +5,6 @@ This is the official website for Sea Scouts in the Capitol Area Council of the B
 http://capitolareaseascouts.org
 
 This website was developed by William N. Braswell, Jr., Boatswain's Mate and Delta Crew Member of Texas Seabadge SB-16-TX-2013, to fulfill the requirements of his Seabadge Rutter, Part B.
-william.braswell_AT_autoparallel.com
 http://seascout.org
 http://bsacac.org
 http://scouting.org
