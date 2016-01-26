@@ -2,12 +2,13 @@ capitolareaseascouts.org
 ========================
 
 This is the official website for Sea Scouts in the Capitol Area Council of the Boy Scouts of America.
-http://seascout.org
-http://bsacac.org
-http://scouting.org
+http://capitolareaseascouts.org
 
 This website was developed by William N. Braswell, Jr., Boatswain's Mate and Delta Crew Member of Texas Seabadge SB-16-TX-2013, to fulfill the requirements of his Seabadge Rutter, Part B.
 william.braswell_AT_autoparallel.com
+http://seascout.org
+http://bsacac.org
+http://scouting.org
 
 The Capitol Area Council Sea Scout Website by William N. Braswell, Jr. is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 http://creativecommons.org/licenses/by-sa/4.0
